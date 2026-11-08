@@ -66,7 +66,7 @@ The system could be connected to real wearable or on-board sensor data in future
 ## Run it locally
 
 ```bash
-git clone https://github.com/<your-username>/astrovitals.git
+git clone https://github.com/Qasim14Khan/AstroVitals.git
 cd astrovitals
 python -m venv .venv
 # Windows:  .venv\Scripts\activate        Mac/Linux:  source .venv/bin/activate
@@ -115,4 +115,4 @@ tested by the team.
 
 ## Team
 
-<Your team name> · NASA Space Apps Challenge 2026
+Vector Orbit (Muhammad Qasim Khan) · NASA Space Apps Challenge 2026
