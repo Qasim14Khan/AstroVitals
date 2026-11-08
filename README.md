@@ -1,5 +1,5 @@
 # 🚀 AstroVitals
-
+🔗 **Live demo:** https://astrovitals-ck3p4jrfwmfsvtrp9irf7g.streamlit.app/
 **Astronaut self-monitoring dashboard for long-duration missions.** Tracks cardiovascular, bone/muscle, immune and
 behavioral health indicators, detects anomalies with machine learning, and recommends actions in plain language.
 
