@@ -15,7 +15,11 @@ problems. On missions far from Earth, communication delays mean astronauts carry
 spotting these changes in themselves.
 
 ## Our solution
-
+![Overview](images/overview.png)
+![Infection alert](images/infection.png)
+![Trends](images/trends.png)
+![Trends (live app)](images/trends_live.png)
+![Dashboard](images/dashboard.png)
 AstroVitals gives an astronaut a single place to check in daily and understand their health:
 
 | Feature | What it does |
