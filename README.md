@@ -15,10 +15,10 @@ problems. On missions far from Earth, communication delays mean astronauts carry
 spotting these changes in themselves.
 
 ## Our solution
+
 ![Overview](images/overview.png)
 ![Infection alert](images/infection.png)
 ![Trends](images/trends.png)
-![Trends (live app)](images/trends_live.png)
 ![Dashboard](images/dashboard.png)
 AstroVitals gives an astronaut a single place to check in daily and understand their health:
 
@@ -92,6 +92,11 @@ pytest
 ```
 astrovitals/
 ├── app.py              # Streamlit dashboard
+├── images/             # UI screenshots
+│   ├── dashboard.png
+│   ├── infection.png
+│   ├── overview.png
+│   └── trends.png
 ├── src/
 │   ├── indicators.py   # indicators, domains, thresholds
 │   ├── simulate.py     # synthetic mission data
