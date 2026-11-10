@@ -16,10 +16,18 @@ spotting these changes in themselves.
 
 ## Our solution
 
-![Overview](images/overview.png)
-![Infection alert](images/infection.png)
-![Trends](images/trends.png)
+### Dashboard overview
 ![Dashboard](images/dashboard.png)
+
+### Infection detected on day 63
+![Infection alert](images/infection.png)
+
+### Risk scores across the mission
+![Overview](images/overview.png)
+
+### Trends with personal baseline
+![Trends](images/trends.png)
+
 AstroVitals gives an astronaut a single place to check in daily and understand their health:
 
 | Feature | What it does |
